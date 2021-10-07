@@ -1,7 +1,7 @@
 ﻿{
   "manifest_version": 2,
-  "name": "Yellow_FB_Panel Extension",
-  "description": "My browser extension built with Blazor WebAssembly",
+  "name": "Yellow FB Panel",
+  "description": "Custom panel to work with Facebook Ads. Run it on Ads Manager page.",
   "version": "0.1",
   "background": {
     "page": "background.html",
